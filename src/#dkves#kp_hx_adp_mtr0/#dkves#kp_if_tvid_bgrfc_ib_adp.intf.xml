@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_INTF" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOINTERF>
+    <CLSNAME>/DKVES/KP_IF_TVID_BGRFC_IB_ADP</CLSNAME>
+    <LANGU>D</LANGU>
+    <DESCRIPT>LEO 3.0 HX Inbound Port for BGRFC</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <UNICODE>X</UNICODE>
+   </VSEOINTERF>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>/DKVES/KP_IF_TVID_BGRFC_IB_ADP</CLSNAME>
+     <CMPNAME>EXECUTE_VIDEO_TOLLING_ORDER</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Executes Video Tolling Ordering Use Case</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>/DKVES/KP_IF_TVID_BGRFC_IB_ADP</CLSNAME>
+     <CMPNAME>EXECUTE_VIDEO_TOLLING_TERM</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Executes Video Tolling Termination Use Case</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

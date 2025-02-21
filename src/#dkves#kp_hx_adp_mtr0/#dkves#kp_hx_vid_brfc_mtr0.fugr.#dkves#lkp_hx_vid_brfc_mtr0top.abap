@@ -1,0 +1,3 @@
+FUNCTION-POOL /DKVES/KP_HX_VID_BRFC_MTR0.       "MESSAGE-ID ..
+
+* INCLUDE /DKVES/LKP_HX_VID_BGRFCD...        " Local class definition
